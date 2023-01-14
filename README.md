@@ -1,2 +1,4 @@
 # System_Program
-- Project
+- Project 1 : Programming for Small Floating Point
+- Project 2 : Bomb Lab
+- Project 3 : Attack Lab
