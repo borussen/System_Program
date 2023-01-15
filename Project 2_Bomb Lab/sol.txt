@@ -1,0 +1,17 @@
+I can see Russia from my house!
+
+1 2 4 7 11 16
+
+3 649 10 20
+
+2 4
+
+5 115
+
+2 3 6 4 1 5
+ *[node 1] : 610
+  [node 2] : 370
+  [node 3] : 496
+  [node 4] : 861
+  [node 5] : 978
+  [node 6] : 391
