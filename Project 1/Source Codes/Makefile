@@ -1,12 +1,12 @@
 CC = gcc
-TARGET = hw1
-OBJECTS = sfp.o hw1.o
+TARGET = main
+OBJECTS = sfp.o main.o
 
-$(TARGET) : hw1.o sfp.o
+$(TARGET) : main.o sfp.o
 	$(CC) -o $(TARGET) $(OBJECTS)
 
-hw1.o : hw1.c
-	$(CC) -c -o hw1.o hw1.c
+main.o : main.c
+	$(CC) -c -o main.o main.c
 
 sfp.o : sfp.c
 	$(CC) -c -o sfp.o sfp.c
